@@ -2,3 +2,7 @@
 /* @FOOTER */
 /* ********* */
 
+footer{
+    @include flexBasico($direccion, $jc,$ai)
+}
+

@@ -1,3 +1,20 @@
 /* ********* */
 /* @MIXINS */
 /* ********* */
+
+
+// MIXIN
+
+// FLEX BASICO
+@mixin flexBasico($direccion, $jc,$ai){
+   display: flex;
+   flex-direction: $direccion;
+   justify-content: $jc;
+   align-items: $ai;
+}
+
+// FLEX COMPLETO
+
+
+
+
